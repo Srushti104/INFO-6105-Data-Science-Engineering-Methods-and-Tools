@@ -24,4 +24,10 @@ This repository contains all the examples as IPython jupyter notebooks.
 * [2.2. Gradient Boosting](https://nbviewer.jupyter.org/github/Srushti104/INFO-6105-Data-Science-Engineering-Methods-and-Tools/blob/master/Assignment/Assignment_2/2.2-Gradient_Boosting.ipynb)
 * [2.3. n_estimators vs Accuracy](https://nbviewer.jupyter.org/github/Srushti104/INFO-6105-Data-Science-Engineering-Methods-and-Tools/blob/master/Assignment/Assignment_2/2.3-n_estimators_vs_Accuracy.ipynb)
 
-### 3. Project
+### 3. Assignment 3 - Deep Neural Network
+* [3.1. DNN Classification](https://nbviewer.jupyter.org/github/Srushti104/INFO-6105-Data-Science-Engineering-Methods-and-Tools/blob/master/Assignment/Assignment_3/3.1-DNN_Classification.ipynb)
+* [3.2. DNN Regression](https://nbviewer.jupyter.org/github/Srushti104/INFO-6105-Data-Science-Engineering-Methods-and-Tools/blob/master/Assignment/Assignment_3/3.2-DNN_Regression.ipynb)
+
+### 4. Final Project
+* [4.0. DNN Regression](https://nbviewer.jupyter.org/github/Srushti104/INFO-6105-Data-Science-Engineering-Methods-and-Tools/blob/master/Natural_Images_Final_Project/Natural_Images_Final_Project.ipynb)
+ 
