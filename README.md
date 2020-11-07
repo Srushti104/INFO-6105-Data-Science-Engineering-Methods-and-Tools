@@ -1,4 +1,5 @@
-# INFO-6105-Data-Science-Engineering-Methods-and-Tools
+# Regeression Machine Learning Models
+   
 
 <div class="alert alert-block alert-info">
 <h3><b>Note:</b> For viewing/running the Notebooks Live </h3>
