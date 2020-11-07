@@ -1,4 +1,4 @@
-# Regeression Machine Learning Models
+# Regression Machine Learning Models
    
 
 <div class="alert alert-block alert-info">
